@@ -9,10 +9,7 @@
            h4{color:blueviolet}
         
         </style>
-        
-        <style> 
-        
-        </style>
+       
     <p>Esses dias eu estava jogando em meu computador escutando musica normalmente, certo? Mas em uma certa hora chegou em uma musica que eu nao aguentei levantei e comecei a dancar igual esse gatinho: </p>
         <p><img src= "images/gif-de-gatinho-dancando.gif" width="300" height="300"> </p>
 
